@@ -1,0 +1,3 @@
+FROM nginx:%%TAG%%
+
+EXPOSE 110 143 465 587 993 995

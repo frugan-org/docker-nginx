@@ -2,7 +2,7 @@
 
 # Docker NGINX
 
-Customization of the [Ufficial NGINX Docker image](https://github.com/nginxinc/docker-nginx).
+Customization of the [Official NGINX Docker image](https://github.com/nginxinc/docker-nginx).
 
 ### Changelog
 

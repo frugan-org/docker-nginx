@@ -11,3 +11,4 @@ RUN chmod +x /entrypoint.sh
 EXPOSE 80 110 143 465 587 993 995
 
 ENTRYPOINT ["/entrypoint.sh"]
+CMD ["nginx", "-g", "daemon off;"]

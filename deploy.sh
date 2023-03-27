@@ -12,6 +12,8 @@ deploy() {
 
 TAGS=(
   1.21
+  1.22
+  1.23
 )
 
 ENTRYPOINT=entrypoint.sh

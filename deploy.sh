@@ -17,6 +17,7 @@ TAGS=(
 	1.24
 	1.25
 	1.26
+	1.27
 )
 
 ENTRYPOINT=entrypoint.sh
